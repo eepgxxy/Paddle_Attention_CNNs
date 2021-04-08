@@ -1,5 +1,5 @@
 # Paddle_Attention_CNNs
-Some attention boosted CNNs implemented using PaddlePaddle, mainly for classification tasks.
+Some attention boosted CNNs implemented using [PaddlePaddle](https://github.com/paddlePaddle), mainly for classification tasks.
 
 ## List of Archtectures
 
